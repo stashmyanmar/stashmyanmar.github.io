@@ -78,6 +78,51 @@
   </url>
   
   <url>
+    <loc>https://stashmyanmar.github.io/-internet-operators/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/-internet-operators/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/-internet-operators/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/-mobile-operators/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/-mobile-operators/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/-mobile-operators/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/mobile-wallets/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/mobile-wallets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/mobile-wallets/"
+                />
+  </url>
+  
+  <url>
     <loc>https://stashmyanmar.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
