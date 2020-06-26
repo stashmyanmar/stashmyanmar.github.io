@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stashmyanmar.github.io/-mobile-operators/mpt/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/-mobile-operators/mpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/-mobile-operators/mpt/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/-mobile-operators/mytel/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/-mobile-operators/mytel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/-mobile-operators/mytel/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/-mobile-operators/ooredoo/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/-mobile-operators/ooredoo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/-mobile-operators/ooredoo/"
+                />
+  </url>
+  
+  <url>
     <loc>https://stashmyanmar.github.io/banks/savings/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -14,6 +59,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://stashmyanmar.github.io/banks/savings/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/-mobile-operators/telenor/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/-mobile-operators/telenor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/-mobile-operators/telenor/"
                 />
   </url>
   
