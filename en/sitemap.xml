@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/banks/savings/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/banks/savings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/banks/savings/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/banks/fixdeposits/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/banks/fixdeposits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/banks/fixdeposits/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/banks/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/banks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/banks/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/insurance/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/insurance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/insurance/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://stashmyanmar.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mm"
+                href="https://stashmyanmar.github.io/mm/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stashmyanmar.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
